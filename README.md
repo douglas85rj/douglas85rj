@@ -1,5 +1,5 @@
 - 👋 Olá amigos 
-- 🌱 Estou estudando HTML, CSS e Javascript.
+- 🌱 Estou estudando Desenvolvimento Web full stack.
 - 📫 douglas85rj@gmail.com 
 
 <!---
