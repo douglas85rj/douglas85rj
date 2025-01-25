@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Douglas Monteiro de Souza</h1>
 <h3 align="center">A passionate developer and Devops from Brazil</h3>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=douglas85rj" alt="douglas85rj" /></a> </p>
-
 - 🔭 I’m currently working on [Java](https://github.com/douglas85rj/JavaTraining)
 
 - 🌱 I’m currently learning **Terraform, Kubernetes, Python and AWS**
@@ -25,5 +21,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=douglas85rj&show_icons=true&locale=en" alt="douglas85rj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=douglas85rj&" alt="douglas85rj" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=douglas85rj" alt="douglas85rj" /></a> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglas85rj&label=Profile%20views&color=0e75b6&style=flat" alt="douglas85rj" /> </p>
